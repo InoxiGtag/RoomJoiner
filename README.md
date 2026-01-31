@@ -2,5 +2,6 @@
 - Open Source Code
 - Simple room joiner for pc users!
 - Lets you leave and join rooms on pc!
+
   
-![image](https://github.com/user-attachments/assets/c9d30794-1fb4-46e4-ae45-aa4ee7a9b90e)
+<img width="254" height="254" alt="image" src="https://github.com/user-attachments/assets/80c3fd45-dbc3-43cf-8484-79658ee60a0a" />
